@@ -1,0 +1,15 @@
+logs
+.ipynb_checkpoints
+.DS_Store
+**/__pycache__/
+.env
+.vscode/
+.empty
+.bandit
+vocs
+submitted.sql3
+ssubmitted.sql3
+nbs
+
+grid/opensmile
+grid/plots

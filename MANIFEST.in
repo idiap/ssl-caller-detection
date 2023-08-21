@@ -1,0 +1,2 @@
+include README.md LICENSE environment.yml version.txt pyproject.toml
+recursive-include dataset img marmoset_lists pkl src *
