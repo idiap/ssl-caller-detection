@@ -1,0 +1,11 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Sarkar
+  given-names: Eklavya
+- family-names: Magimai.-Doss
+  given-names: Mathew
+title: Can Self-Supervised Neural Representations Pre-Trained on Human Speech distinguish Animal Callers?
+doi: 
+version: v0.1.0
+date-released: 2023-10-16
