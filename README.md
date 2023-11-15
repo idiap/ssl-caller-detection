@@ -37,9 +37,11 @@ Please cite the original authors for their work in any publication(s) that uses 
 
 ## Dataset
 
-**COMING SOON**: The `InfantMarmosetsVox` dataset used for the experiments in this paper will be open-sourced along with a `torch` `Dataset` and `DataLoader`.
+InfantMarmosetsVox is a dataset for multi-class call-type and caller identification. It contains audio recordings of different individual marmosets and their call-types. The dataset contains a total of 350 files of precisely labelled 10-minute audio recordings across all caller classes. The audio was recorded from five pairs of infant marmoset twins, each recorded individually in two separate sound-proofed recording rooms at a sampling rate of 44.1 kHz. The start and end time, call-type, and marmoset identity of each vocalization are provided, labeled by an experienced researcher. It contains a total of 169,318 labeled audio segments, which amounts to 72,921 vocalization segments once removing the "Silence" and "Noise" classes. There are 11 different call-types (excluding "Silence" and "Noise") and 10 different caller identities. 
 
-**At the moment, the paths referenced by this software are in the form ```/path/to/dataset/<something>```, thus the code is not fully runnable!**
+The dataset is publicly available [here](https://www.idiap.ch/en/dataset/infantmarmosetsvox/index_html), and contains a usable Pytorch `Dataset` and `Dataloader`. Any publication (eg. conference paper, journal article, technical report, book chapter, etc) resulting from the usage of InfantsMarmosetVox **must cite** this [paper](https://www.isca-speech.org/archive/interspeech_2023/sarkar23_interspeech.html). 
+
+More information on the usage is provided in the `README.txt` file included in the dataset.
 
 ## Installation
 
