@@ -5,6 +5,9 @@
 [[Slides]](https://eklavyafcb.github.io/docs/Sarkar_Interspeech_2023_Presentation.pdf)
 
 <p align="center">
+    <a href="https://paperswithcode.com/sota/caller-detection-on-infantmarmosetsvox?p=can-self-supervised-neural-networks-pre">
+        <img alt="License" src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/can-self-supervised-neural-networks-pre/caller-detection-on-infantmarmosetsvox">
+    </a>
     <a href="https://github.com/idiap/ssl-caller-detection/blob/main/LICENSE">
         <img alt="License" src="https://img.shields.io/badge/License-GPLv3-blue.svg">
     </a>
